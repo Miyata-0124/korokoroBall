@@ -627,7 +627,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 344c357eb870c88408140771f94daa8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  power: 5
+  power: 2
   rigidbody: {fileID: 906299438}
 --- !u!1 &963194225
 GameObject:
